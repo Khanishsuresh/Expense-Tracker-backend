@@ -8,5 +8,5 @@ Some Features:
 
 
 The Frontend repo : 
-  Khanishsuresh/Expense_tracker_frontend
+  Khanishsuresh/Expense-tracker-frontend
   
