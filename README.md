@@ -7,7 +7,7 @@ Some Features:
 -  Run both the expense tracker's backend as well as the frontend
 
 
+### The Frontend repo : 
 ```
-The Frontend repo : 
   Khanishsuresh/Expense-tracker-frontend
 ```
